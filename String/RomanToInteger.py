@@ -23,7 +23,7 @@ Example 1:
 
 Input: s = "III"
 Output: 3
-Explanation: III = 3.'''
+Explanation: III = 3.  '''
 
 
 class Solution(object):
