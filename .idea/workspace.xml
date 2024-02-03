@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6278f7bb-29af-422d-8e46-5a54f67a9f02" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/String/RomanToInteger.py" beforeDir="false" afterPath="$PROJECT_DIR$/String/RomanToInteger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2bm9Eo1XBI6ihOfz0OsWt6zYSTJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,12 +43,18 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.RomanToInteger.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Feature/LocalBranch",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\USER\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="357bde2c-c0c7-42ed-a2ba-139fe7715d74" reportId="DSASolutions/qodana/2024-02-02" />
+    </option>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="DSASolutions" />
@@ -88,16 +99,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
