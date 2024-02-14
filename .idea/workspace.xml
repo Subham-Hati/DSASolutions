@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6278f7bb-29af-422d-8e46-5a54f67a9f02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic Problem Solving/CountNumberOfFactors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/validParentheses.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
     "Python.chatGPT.executor": "Run",
     "Python.longestCommonPrefix.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.validParentheses.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Feature/LocalBranch",
